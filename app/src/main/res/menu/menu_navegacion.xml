@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item
+        android:id="@+id/fragmento1"
+        android:title="Favoritos"
+        android:icon="@drawable/baseline_local_pizza_24"/>
+
+    <item
+        android:id="@+id/fragmento2"
+        android:title="Menu"
+        android:icon="@drawable/baseline_favorite_24"/>
+
+    <item
+        android:id="@+id/fragmento3"
+        android:title="Ensalasa"
+        android:icon="@drawable/baseline_check_box_24"/>
+    <item
+        android:id="@+id/fragmento4"
+        android:title="Proximamente"
+        android:icon="@drawable/baseline_person_24"/>
+</menu>
